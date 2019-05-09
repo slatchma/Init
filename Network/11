@@ -1,0 +1,2 @@
+Apres le trace route on a le 1er IP 10.3.1.254
+avec "dig -x 10.3.1.254" on a le nom "ns1.le-101.fr"

@@ -1,0 +1,1 @@
+Pour le rendre permanent, il faut faire "su" ensuite " hostname new_name" puis modifier le fichier /etc/hostsname et mettre le new_name dessus
